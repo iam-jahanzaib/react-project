@@ -1,5 +1,3 @@
-import React from 'react'
-
 import React, { useState } from 'react';
 import { MapPin, Phone, Mail } from 'lucide-react';
 import { RESTAURANT_PHONE } from '../data';
