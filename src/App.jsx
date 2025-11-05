@@ -5,7 +5,7 @@ import Menu from './components/Menu';
 import Reviews from './components/Reviews';
 import Social from './components/Social';
 import Contact from './components/Contact';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 
 export default function App() {
 
