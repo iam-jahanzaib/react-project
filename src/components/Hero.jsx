@@ -6,7 +6,7 @@ const Hero = () => {
 
         <section
             id="home"
-            className="hero-section bg-dark text-white position-relative d-flex align-items-centerjustify-content-center text-center p-4"
+            className="hero-section bg-dark text-white position-relative d-flex align-items-center justify-content-center text-center p-4"
             style={{
                 backgroundImage: "url('https://unsplash.com/photos/3d-render-of-luxury-hotel-room-with-double-bed-gTA4bkiD2Xw')",
                 backgroundSize: "cover",
